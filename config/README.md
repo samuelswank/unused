@@ -1,10 +1,14 @@
 # config.js Explained
 
+## Background
+
+I built the *config.js* script for use in a pedagogical environment, allowing myself and others to gain experience in deploying applications to Amazon Web Service via Elastic Beanstalk, rather than simply letting *somebody else do it*.
+
 *JavaScript for Data Scientists*
 
 ## What config.js Does
 
-The config.js file allows the Lambda School Labs 26 Citrics Team A Data Scientist to choose whether to build the team Docker image and deploy to the team AWS application or build his personal Docker image and deploy to his own application.
+The *config.js* file allows the Lambda School Labs 26 Citrics Team A Data Scientist to choose whether to build the team Docker image and deploy to the team AWS application or build his personal Docker image and deploy to his own application.
 
 ## Installing node.js
 
